@@ -5,7 +5,7 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 ## 1. What was broken when you started?
 
 - What did the game look like the first time you ran it?
-When I first ran the game, it was unplayable. The hints were backwards — when my guess was too high, it told me to go higher, which pushed me further away from the answer. The game also had a secret type corruption bug where on every even-numbered attempt the secret was secretly converted to a string, making it impossible to win on those turns. On top of that, clicking "New Game" after winning still showed "You already won" immediately because the game status was never reset. 
+When I first ran the game, it was unplayable. The hints were backwards — when my guess was too high, it told me to go higher, which pushed me further away from the answer. The game also had a secret type corruption bug where on every even-numbered attempt the secret was secretly converted to a string. On top of that, clicking "New Game" after winning still showed "You already won" immediately because the game status was never reset. 
 ## 2. How did you use AI as a teammate?
 
 - Which AI tools did you use on this project (for example: ChatGPT, Gemini, Copilot)?
